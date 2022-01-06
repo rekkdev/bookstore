@@ -1,0 +1,12 @@
+Beginning Node.js/Basarat Ali Syed/programming and cs/nodejs/10/0
+Node.JS Web Development/David Herron/programming and cs/nodejs/10/2
+Node.js Design Patterns/Mario Casciaro/programming and cs/nodejs/2/0
+Data Structures and Algorithms in java/Michael T. Goodrich and Roberto Tamassia/programming and cs/java/1/0
+Learning Python/ Mark Lutz/programming and cs/python/1/0
+Python Cookbook: Recipes for Mastering Python 3/Brian K. Jones and David M. Beazley/programming and cs/python/1/0
+Methods of Quantum Field Theory in Statistical Physics/Abrikosov A.A./physics/Quantum-Statistical physics/13/1
+Molecular Biology of the Cell/Alberts B./physics/Biophysics/20/7
+Basics of Environmental Science/ Allaby M./physics/Energy-Environment/3/2
+Mathematical methods for physicists/Arfken G.B. and Weber H.J./physics/physics/1/1
+Astrophysics of Planet Formation/Armitage P./physics/Astrophysics/10/1
+Chemistry for Dummies/John T. Moore/chemistry/general/0/1
